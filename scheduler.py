@@ -1,6 +1,6 @@
 import schedule
 import time
-from script import run_stock_job
+from data import run_stock_job
 
 from datetime import datetime
 
